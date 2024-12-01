@@ -25,6 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+
 </div>
 
 ###
@@ -39,6 +40,6 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/ryanpompeo/ryanpompeo/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ryanpompeo/ryanpompeo/blob/output/github-contribution-grid-snake.svg)
 
 ###
