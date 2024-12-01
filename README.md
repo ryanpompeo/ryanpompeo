@@ -1,15 +1,15 @@
-
 # Hi I'm Pompeo:
-Lover of classic literature but an apprentice Systems Development Technician with a little platonic love in Pentest<br><br>I’m currently learning Java and C#<br><br>Wanting to learn more CyberSecurity
 
 Lover of classic literature but an apprentice Systems Development Technician with a little platonic love in Pentest
-
+Wanting to learn more CyberSecurity
 I’m currently learning Java and C# 
 <img align="right" height="150" src="https://i.gifer.com/VYxE.gif"  />
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rypompeo/) 
 
-Wanting to learn more CyberSecurity
+
 ---
 ## Proficient in:
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
