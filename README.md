@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNxNjB6eHk2bm83amtqcDYxN3F5M2wzZGZ3aHlqaHVtcjBuNjE4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkKzNQjwPy7GvxZbfe/giphy.gif"  />
+<img align="right" height="150" src="https://scitechdaily.com/images/Black-Hole-Animation-Concept.gif"  />
 
 ###
 
