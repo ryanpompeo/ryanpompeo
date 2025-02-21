@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Pompeo</h2>
+[<h2 align="left">Hi 👋! I'm Pompeo</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src= "https://www.icegif.com/wp-content/uploads/2023/08/icegif-797.gif"  />
+
 
 ###
 
@@ -62,3 +62,4 @@
 
 
 ###
+](https://www.icegif.com/wp-content/uploads/2023/08/icegif-797.gif)
