@@ -8,11 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanpompeo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-
-
-###
 <div align="center">
   <a href="https://www.instagram.com/rypompeo/?utm_source=ig_web_button_share_sheet" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=white&labelColor=000&style=for-the-badge" height="35" alt="instagram logo"  />
