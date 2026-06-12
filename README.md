@@ -1,18 +1,16 @@
-<h1 align="center">Welcome to my profile!
-   <img src="https://projectpokemon.org/home/uploads/monthly_2021_09/large.Animated.gif.1255335a053afc725d41d67e25f4e1e6.gif" width="30px"/>
-</h1>
 
-###
+
 <div align="center">
    
-![Descrição opcional](https://www.gifcen.com/gif/playstation/)
+![Descrição opcional](https://giffiles.alphacoders.com/229/22917.gif)
 
 
 </div>
+<h1 align="center">Welcome to my profile!
+</h1>
 
 
 
---- 
 <div align="center"><b>:hammer_and_wrench: Languages and Tools</b></div>
 <br>
 
