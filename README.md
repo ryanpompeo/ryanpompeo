@@ -5,7 +5,7 @@
 ###
 <div align="center">
    
-![Descrição opcional](https://i.pinimg.com/originals/75/90/b0/7590b091674eb2a9700ecec83dd528c9.gif)
+![Descrição opcional](https://www.gifcen.com/gif/playstation/)
 
 
 </div>
