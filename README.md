@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&width=435&lines=+Cybersecurity+student+in+training ;The+soul+is+the+prison+of+the+body."alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&width=435&lines=+Cybersecurity+Student+;The+soul+is+the+prison+of+the+body."alt="Typing SVG" /></a>
 </div>
 
 
@@ -20,7 +20,7 @@
 <div style="background-color:#111; padding:20px 25px; border-radius:12px;">
 
 <pre>
-◈  Class     →  Cybersecurity Apprentice
+◈  Class     →  Cybersecurity Apprentice | Pentesting
 ◈  Origin    →  Brazil 🇧🇷
 </pre>
 
@@ -59,6 +59,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![VS Code](https://img.shields.io/badge/VS_Code-111?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
 ![Postman](https://img.shields.io/badge/Postman-111?style=for-the-badge&logo=postman&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=FFFFFF)
 
 </div>
 
