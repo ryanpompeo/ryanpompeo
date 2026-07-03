@@ -55,8 +55,6 @@
 ![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
 ![Flutter](https://img.shields.io/badge/Flutter-111?style=for-the-badge&logo=flutter&logoColor=FFFFFF)
 ![Dart](https://img.shields.io/badge/Dart-111?style=for-the-badge&logo=dart&logoColor=FFFFFF)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS_Code-111?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
 ![Postman](https://img.shields.io/badge/Postman-111?style=for-the-badge&logo=postman&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=FFFFFF)
 
