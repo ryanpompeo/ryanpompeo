@@ -53,7 +53,6 @@
 
 ![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=FFFFFF)
 ![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
-![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![Flutter](https://img.shields.io/badge/Flutter-111?style=for-the-badge&logo=flutter&logoColor=FFFFFF)
 ![Dart](https://img.shields.io/badge/Dart-111?style=for-the-badge&logo=dart&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=FFFFFF)
