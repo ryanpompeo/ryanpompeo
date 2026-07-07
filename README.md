@@ -62,21 +62,12 @@
 
 
 
----
+
 
 <br/><br/>
 
-## Statistics
-<div align="center">
-<img width="300" height="200" alt="Image" src="https://www.gifcen.com/wp-content/uploads/2021/12/bloodborne-gif-4.gif" />
 
-<img src="https://streak-stats.demolab.com?user=ryanpompeo&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="streak"/>
 
-<br/>
-
-</div>
-
----
 
 ## Contribution Graph
 
